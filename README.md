@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/real_lion_7623), committed
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [High Water](./practice/python/high-water) | Python | Easy | 2026-10-05 |
 | [Longest Running Pipeline](./practice/sql/longest-running-pipeline) | SQL | Medium | 2026-10-05 |
 
 <!-- datadriven:index:end -->
